@@ -1,0 +1,203 @@
+.comeco{
+    display: block;
+    position: relative;
+    right: 5pc;
+    padding-top: 5pc;
+    text-align: center;
+}
+
+.comeco input{
+    border-radius: 40px;
+    width: 230px;
+    height: 50px;
+    margin-left: 20px;
+    margin-top: 2pc;
+    border: none;
+}
+
+.computador-trechos h2{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+   display: block;
+   position: relative;
+   right: 5pc;
+    padding-top: 5pc;
+}
+
+.computador-trechos img{
+    padding-top: 5pc;
+    width: 30pc;
+}
+
+.informacoes-computador-trechos{
+    
+    display: block;
+    position: relative;
+    left: 8pc;
+    top: 0;
+    font-size: 30px;
+
+}
+
+.computador-transfenrecia {
+    text-align: center;
+    align-items: center;
+    padding-left: 10pc;
+    
+    display: block;
+    position: relative;
+    top: 5pc;
+    right: 5pc;
+}
+
+.computador-transfenrecia img{
+    width: 30pc;
+    padding-top: 5pc;
+    display: block;
+    position: relative;
+    right: 5pc;
+}
+
+header #texto-h2-unico{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+    text-align: center;
+    padding-left: 4pc;
+    font-size: 30px;
+    display: block;
+    position: relative;
+    top: 10pc;
+}
+
+header .fluxo-trabalho {
+    padding-top: 7pc; ;
+    
+    display: block;
+    position: relative;
+    top: 6pc;
+    left: 25pc;
+}
+
+.blacklist img{
+    width: 70px;
+}
+
+.blacklist{
+    display: block;
+    position: relative;
+    right: 10pc;
+}
+
+#lista{
+    display: block;
+    position: relative;
+    right: 35px;
+    top: 2pc;
+    font-size: 20px;
+}
+
+.text img{
+   padding-top:10pc ;
+    
+   display: block;
+   position: relative;
+   left: -10pc;
+}
+
+#trechos{
+    display: block;
+    position: relative;
+    top: 2pc;
+    left: -220px;
+
+    font-size: 20px;
+}
+
+.preview img{
+    width: 70px;
+    padding-top:10pc ;
+    
+    display: block;
+    position: relative;
+    left: -10pc;
+}
+
+#pre-visulizacao{
+    display: block;
+    position: relative;
+    top: 2pc;
+    left: -170px;
+
+    font-size: 20px;
+}
+
+.redes-social{
+    padding-top: 20pc;
+
+    display: block;
+    position: relative;
+    right: 5pc;
+}
+
+.redes-social img{
+    width: 180px;
+    padding-top: 60px;
+}
+
+.botaos-duwload {
+    padding-left: 2pc;
+    padding-top: 1pc;
+    text-align: center;
+}
+
+.botaos-duwload input{
+    border-radius: 40px;
+    width: 230px;
+    height: 50px;
+    margin-left: 20px;
+    margin-top: 2pc;
+}
+
+footer #imagem-pricepal{
+    width: 70px;
+    padding-left: 9pc;
+    display: block;
+    position: relative;
+    top: -7pc;
+}
+
+footer span{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+  
+}
+
+footer #p{
+    display: block;
+    position: relative;
+    left: 10pc;
+    top: -80px;
+}
+
+footer #s{
+    display: block;
+    position: relative;
+    left: 10pc;
+    top: -70px;
+}
+
+footer #t{
+    display: block;
+    position: relative;
+    left: 10pc;
+    top: -60px;
+}
+
+footer .icones-rederSocial{
+    display: block;
+    position: relative;
+    left: 10pc;
+    top: -30px;
+}

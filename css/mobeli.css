@@ -16,6 +16,7 @@ main .computador-trechos h2, .computador-transfenrecia h2 , section h2{
     font-size: 12pt;
     position: relative;
     left: 30px;
+    top: -70px;
 }
 
 .computador-transfenrecia img{

@@ -3,20 +3,28 @@ header h1{
 }
 
 main .computador-trechos h2, .computador-transfenrecia h2 , section h2{
-    font-size: 14pt;
+    font-size: 12pt;
+}
+
+.computador-trechos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .computador-trechos img{
-    width: 300px;
+    width: 450px;
+   
+}
+
+#informacoes-produto{
     position: relative;
-    right: 50px;
+    top: 20px;
+    left: 50%;
 }
 
 #informacoes-produto li{
-    font-size: 12pt;
-    position: relative;
-    left: 30px;
-    top: -70px;
+    font-size: 15pt;
 }
 
 .computador-transfenrecia img{
